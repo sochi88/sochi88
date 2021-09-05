@@ -1,7 +1,7 @@
 This folder contains a collection of different videogames I've worked on with different teams.
 
 
-Cats vs the Universe
+<h3>Cats vs the Universe</h3>
 
   Winner - National Award for Best Strategy Game
   
@@ -11,7 +11,7 @@ Cats vs the Universe
   us 4 months and a half to complete. I worked on primarily on the intro animation and the art. 
 
 
-Faculty Game Jam 2019
+<h3>Faculty Game Jam 2019</h3>
   Winner - 2nd place
 
   The CS faculty hosted a game jam and I worked on this alongside another friend. The theme was
@@ -19,12 +19,12 @@ Faculty Game Jam 2019
   won 2nd place with it.
 
 
-Puzzle Game
+<h3>Puzzle Game</h3>
 
   A very small puzzle game I did as part of my very first video games with unity.
 
 
-Global Game Jams
+<h3>Global Game Jams</h3>
 
   I've participated in two global game jams in 2019 and 2020. Here are the link to the games in the
   official website.
