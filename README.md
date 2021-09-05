@@ -11,7 +11,8 @@ My main programming languages are:
 I enjoy game development as a side hobby which is why my personal projects are video games I've done. 
 Currently they are at: https://www.dropbox.com/sh/d2vs19fqpllycl9/AADL7szZLHH80VONXqzD5f1Ja?dl=0 but will be migrating soon to github!
 
-Some of my other personal skills include:
+Some of my other personal skills include
+
 Experience with:
 - penetration testing (Burp suite, Nmap, Wireshark, Kali linux tools, CTF events)
 - experience with Object Oriented Programming and Data Structures
