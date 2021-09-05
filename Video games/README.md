@@ -19,5 +19,7 @@ Global Game Jams
 
   I've participated in two global game jams in 2019 and 2020. Here are the link to the games in the
   official website.
+ 
   2019 - https://globalgamejam.org/2019/games/needy-neighbours
+  
   2020 - https://globalgamejam.org/2020/games/robobaes-4 
