@@ -1,0 +1,46 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5450 (ID=0x68f9)
+    Vendor:   ATI
+    VRAM:     1010 MB
+    Driver:   15.201.1151.1008
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.105 seconds
+Platform assembly: C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Artcode\Desktop\Tarea2.0\Application_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.646087 ms
+You are the ladybug, run into an emblem to get a riddle and click ok when you are done.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Then run into the animal that is the asnwer.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Watch out, you have to get them in order otherwise you will only start again.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Be careful not to run over an animal before you have seen the riddle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 28fc -> priority: 1 
